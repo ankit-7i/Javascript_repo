@@ -1,2 +1,2 @@
 # Javascript_repo
-A code repository for javascript 
+A learning and implementing javascript repository
